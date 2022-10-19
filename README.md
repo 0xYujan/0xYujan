@@ -53,10 +53,10 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yujan1&theme=nord&column=7)]
+![trophy](https://github-profile-trophy.vercel.app/?username=yujan1&theme=nord&column=7)
 
 ## ⌨️ Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujan1&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujan1&layout=compact)
 
 
 ## 🗂️ Highlight Projects
