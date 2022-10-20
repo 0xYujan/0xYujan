@@ -1,7 +1,7 @@
 # Hello there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0xYujan.0xYujan)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/0xYujan/Solidity/)
 
 
 ```python
