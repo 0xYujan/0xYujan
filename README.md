@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yujan1.yujan1)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=0xYujan.0xYujan)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
@@ -40,33 +40,33 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-![Yujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujan1&show_icons=true&theme=radical)
+![Yujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xYujan&show_icons=true&theme=radical)
 
 
 <!-- ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/yujan1/yujan1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+<a href="https://github.com/0xYujan/0xYujan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xYujan&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a>
-<a href="https://github.com/yujan1/yujan1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+<a href="https://github.com/0xYujan/0xYujan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xYujan&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a> -->
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yujan1&theme=nord&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=0xYujan&theme=nord&column=7)
 
 ## ⌨️ Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujan1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xYujan&layout=compact)
 
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/yujan1/Solidity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yujan1&repo=Solidity&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Solidity" />
+<a href="https://github.com/0xYujan/Solidity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xYujan&repo=Solidity&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Solidity" />
 </a>
 
-<a href="https://github.com/yujan1/newari_menu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yujan1&repo=newari_menu&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="newari_menu" />
+<a href="https://github.com/0xYujan/newari_menu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xYujan&repo=newari_menu&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="newari_menu" />
 </a>
 
 <!-- ## 👨‍💻 This week, I spent my time on:
