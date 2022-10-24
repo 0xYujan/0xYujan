@@ -3,6 +3,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0xYujan.0xYujan)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/0xYujan/Solidity/)
 
+<div align="center">
+  <img src="https://github.com/0xYujan/0xYujan/blob/main/Image/welcome%20(1).gif?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
+<br>
+<br>
 
 ```python
 #!/usr/bin/python
