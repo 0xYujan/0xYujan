@@ -34,6 +34,7 @@ me.say_hi()
 - Notes and Books: https://pakoe-books.blogspot.com/
 - Solutions & Notes: https://abstractchain.org/
 
+<br>
 
 ## 🔧 Technologies & Tools
 
@@ -47,21 +48,20 @@ me.say_hi()
 
 ![Yujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xYujan&show_icons=true&theme=radical)
 
-
-<!-- ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/0xYujan/0xYujan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xYujan&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
-<a href="https://github.com/0xYujan/0xYujan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xYujan&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
+<br>
 
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=0xYujan&theme=nord&column=7)
+<br>
 
 ## ⌨️ Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xYujan&layout=compact)
+<br>
+
+## ☠️ Hacktoberfest 2022
+[![@yujan1's Holopin board](https://holopin.me/yujan1)](https://holopin.io/@yujan1)
+<br>
 
 
 ## 🗂️ Highlight Projects
@@ -74,5 +74,7 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xYujan&repo=newari_menu&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="newari_menu" />
 </a>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 <!-- ## 👨‍💻 This week, I spent my time on:
 [![Yujan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yujan1&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
