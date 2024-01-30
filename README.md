@@ -33,9 +33,9 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://yujanranjitkar.com.np/
-- Notes and Books: https://pakoe-books.blogspot.com/
-- Solutions & Notes: https://abstractchain.org/
+- Personal Website: https://yujanranjitkar.com.np
+- Courses: https://ymknow.xyz
+- Blog: https://ymknow.xyz
 
 <br>
 
