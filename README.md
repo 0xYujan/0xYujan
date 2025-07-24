@@ -34,8 +34,10 @@ me.say_hi()
 ## 📝 Blogs
 
 - Personal Website: https://yujanranjitkar.com.np
-- Courses: https://ymknow.xyz
-- Blog: https://ymknow.xyz
+
+## Company 
+- TBT Main Website: https://techboxtec.com
+- TBT Hosting: https://hosting.techboxtec.com
 
 <br>
 
@@ -53,11 +55,6 @@ me.say_hi()
 
 <br>
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=0xYujan&theme=nord&column=7)
-<br>
-
 ## ⌨️ Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xYujan&layout=compact)
 <br>
@@ -65,17 +62,6 @@ me.say_hi()
 ## ☠️ Hacktoberfest 2022
 [![@yujan1's Holopin board](https://holopin.me/yujan1)](https://holopin.io/@yujan1)
 <br>
-
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/0xYujan/Solidity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xYujan&repo=Solidity&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Solidity" />
-</a>
-
-<a href="https://github.com/0xYujan/newari_menu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xYujan&repo=newari_menu&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="newari_menu" />
-</a>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
